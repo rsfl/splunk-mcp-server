@@ -1,0 +1,19 @@
+{
+  "mcpServers": {
+    "filesystem": {
+      "command": "npx",
+      "args": ["@modelcontextprotocol/server-filesystem", "C:\\Users\\research\\Desktop\\docs"]  //add your own files here
+    },
+    "splunk": {
+      "command": "node",
+      "args": ["C:\\Users\\research\\splunk-mcp\\splunk-server.js"],  //add your own path here
+      "env": {
+        "SPLUNK_HOST": "localhost",      //add your own host here
+        "SPLUNK_PORT": "8089",            //add your own port here
+        "SPLUNK_USERNAME": "admin",       //add your own username here
+        "SPLUNK_PASSWORD": "Password1",   //add your own password here
+        "SPLUNK_SCHEME": "https"          //add your own scheme here
+      }
+    }
+  }
+}

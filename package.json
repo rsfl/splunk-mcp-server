@@ -1,0 +1,17 @@
+{
+  "name": "splunk-mcp-server",
+  "version": "1.0.0",
+  "description": "Splunk MCP Server",
+  "main": "splunk-server.js",
+  "dependencies": {
+    "@modelcontextprotocol/sdk": "^0.4.0",
+    "splunk-sdk": "^1.8.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}

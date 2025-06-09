@@ -1,3 +1,6 @@
+
+![claudesplunkconnection](https://github.com/user-attachments/assets/74d4f146-4dd7-49f8-a98c-f40d9ed5f9b1)
+![splunkclaudeindexesexplore](https://github.com/user-attachments/assets/726856e8-005c-4f42-b514-f2f64b4aec55)
 # splunk-mcp-server
 Proof of Concept Splunk MCP server plus MCP file Server by Rod Soto 
 

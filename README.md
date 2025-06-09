@@ -14,6 +14,7 @@ Proof of Concept Splunk MCP server plus MCP file Server by Rod Soto
 - Install dependencies
   - cd folder you created
   - npm init -y
+  - npm install
   - npm install @modelcontextprotocol/server-filesystem
   - npm install @modelcontextprotocol/sdk
   - npm install splunk-sdk

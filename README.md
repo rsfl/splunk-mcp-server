@@ -39,3 +39,10 @@ Proof of Concept Splunk MCP server plus MCP file Server by Rod Soto
 
   - Location of MCP Logs is "C:\Users\*user*\AppData\Roaming\Claude\logs"
  
+Note: This is a POC. Here are some links for MCP security 
+- https://www.nccgroup.com/us/research-blog/5-mcp-security-tips/#:~:text=In%20an%20environment%20where%20several,good%20health%20(and%20security). 
+
+Also Splunk
+- https://help.splunk.com/en/splunk-enterprise/administer/manage-users-and-security/9.4/introduction-to-securing-the-splunk-platform/about-securing-the-splunk-platform
+  
+  ##Remember if you allow it MCP/Claude can WRITE to your system. 
